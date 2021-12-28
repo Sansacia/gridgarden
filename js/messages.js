@@ -37,6 +37,7 @@ var messages = {
     'id': 'Bahasa Indonesia',
     'tl': 'Tagalog',
     'al': 'Shqip',
+    'am': 'Հայերեն',
   },
   next: {
     'en': 'Next',
@@ -76,6 +77,7 @@ var messages = {
     'id': 'Selanjutnya',
     'tl': 'Sunod',
     'al': 'Përpara',
+    'am': 'Հաջորդը',
   },
   labelFooter: {
     'en': 'Grid Garden is created by',
@@ -115,6 +117,7 @@ var messages = {
     'id': 'Grid Garden diciptakan oleh',
     'tl': 'Ang Grid Garden ay ginawa ng',
     'al': 'Grid Garden është krijuar nga',
+    'am': 'Grid Garden խաղը ստեղծված է',
   },
   labelLevel: {
     'en': 'Level',
@@ -154,6 +157,7 @@ var messages = {
     'id': 'Level',
     'tl': 'Level',
     'al': 'Nivel',
+    'am': 'Մակարդակ',
   },
   labelOf: {
     'en': 'of',
@@ -193,6 +197,7 @@ var messages = {
     'id': 'dari',
     'tl': 'ng',
     'al': 'e',
+    'am': '-ից',
   },
   title: {
     'en': 'Grid Garden - A game for learning CSS grid',
@@ -232,6 +237,7 @@ var messages = {
     'id': 'Grid Garden - Sebuah game untuk mempelajari grid CSS',
     'tl': 'Grid Garden - Laro para mag-aral ng CSS Grid',
     'al': 'Grid Garden - Një lojë për të mësuar CSS grid',
+    'am': 'Grid Garden - CSS Grid-ը սովորելու խաղ',
   },
   labelReset: {
     'en': 'Reset',
@@ -271,6 +277,7 @@ var messages = {
     'id': 'Atur ulang',
     'tl': 'Ulitin',
     'al': 'Rifillo',
+    'am': 'Վերականգնել',
   },
   warningReset: {
     'en': 'Are you sure you want to reset the game?\n\nYour saved progress will be lost and you\'ll be sent to the start of the game.',
@@ -310,6 +317,7 @@ var messages = {
     'id': 'Apakah kamu yakin ingin mengatur ulang permainan?\n\nKemajuan Anda yang tersimpan akan hilang dan Anda akan dikirim ke awal permainan.',
     'tl': 'Sigurado ka na gusto mo ulitin ang laro?\n\nMawawala ang naka-save na progress sa \'yo tapos mapupunta ka uli sa simula ng laro.',
     'al': 'A jeni të sigurtë që doni ta rifilloni lojën?\n\nProgresi i ruajtur do të humbasë dhe ju\'do të dërgoheni në fillimin e lojës',
+    'am': 'Իսկապե՞ս ուզում եք վերակայել խաղը:\n\nՁեր առաջընթացը կկորչի, և դուք կվերադառնաք խաղի սկզբին:',
   },
   warningUnsupported: {
     'en': 'Oh no, Grid Garden doesn\'t work on this browser. It requires <a href="https://caniuse.com/#feat=css-grid">a browser that supports CSS grid</a>, such as the latest version of <a href="https://www.mozilla.org/firefox/">Firefox</a>, <a href="https://www.google.com/chrome/">Chrome</a>, or <a href="https://www.apple.com/safari/">Safari</a>. Use one of those to get gardening!',
@@ -342,6 +350,7 @@ var messages = {
     'id': 'Oh tidak, Grid Garden tidak berfungsi di browser ini. Membutuhkan <a href="https://caniuse.com/#feat=css-grid">browser yang mendukung grid CSS</a>, seperti versi terbaru dari <a href="https://www.mozilla.org/firefox/">Firefox</a>, <a href="https://www.google.com/chrome/">Chrome</a>, atau <a href="https://www.apple.com/safari/">Safari</a>. Gunakan salah satunya untuk mulai berkebun!',
     'tl': 'Hala, hindi gumagana ang Grid Garden sa browser na \'to. Kailangan ng <a href="https://caniuse.com/#feat=css-grid">browser na may support ng CSS grid</a>, gaya ng latest version ng <a href="https://www.mozilla.org/firefox/">Firefox</a>, <a href="https://www.google.com/chrome/">Chrome</a>, o ng <a href="https://www.apple.com/safari/">Safari</a>. Gamitin ang kahit alin dito para makapaghardin!',
     'al': 'Oh jo, Grid Garden nuk funksionon në ketë browser. Ka nevojë për <a href="https://caniuse.com/#feat=css-grid">një browser që suporton CSS grid</a>, si për shembull versioni e fundit të <a href="https://www.mozilla.org/firefox/">Firefox</a>, <a href="https://www.google.com/chrome/">Chrome</a>, ose <a href="https://www.apple.com/safari/">Safari</a>. Përdor njërën nga këto për të filluar kopështin!',
+    'am': 'Օ, ոչ, Grid Garden-ը չի աշխատում ձեր բրաուզերում: Ճիշտ աշխատելու համար ձեզ անհրաժեշտ է <a href="https://caniuse.com/#feat=css-grid"> դիտարկիչ, որն աջակցում է CSS ցանցին </a>, ինչպիսին է վերջին տարբերակը <a href ="https://www.mozilla.org/firefox/">Firefox </a>, <a href="https://www.google.com/chrome/"> Chrome </a> կամ <a href = "https://www.apple.com/safari/">Safari</a>: Օգտագործեք դրանցից մեկը այգեգործություն սկսելու համար:',
   },
   flexboxFroggy: {
     'en': 'Want to learn CSS flexbox? Play',
@@ -371,5 +380,6 @@ var messages = {
     'id': 'Ingin belajar CSS flexbox? Bermain',
     'tl': 'Gusto mo ba na mag-aral ng CSS flexbox? Maglaro ng',
     'al': 'Do të mësosh CSS flexbox? Luaj',
+    'am': 'Ցանկանու՞մ եք սովորել CSS flexbox: Խաղալ',
   },
 };

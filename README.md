@@ -46,6 +46,7 @@ My gratitude to these contributors for their translations.
 * Tagalog by [goriio](https://github.com/goriio)
 * Turkish by [serdar](https://github.com/yigitserdar)
 * Vietnamese by [Duy Phan](https://github.com/duyphanz)
+* Armenian by [Sansacia](https://github.com/Sansacia)
 
 Don't see your language on the list? Add it!
 
